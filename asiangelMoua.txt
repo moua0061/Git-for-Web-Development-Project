@@ -3,11 +3,11 @@ https://codepen.io/BritHemming/pen/jONmxOm?editors=1100
 Copy the questions below into the first-lastname.txt file on your github repo - answer each question and then push your changes. 
 
     1. What is Semantic HTML? 
-        Important HTML tags with meanings
+        Important HTML tags with meanings.
     2. What is HTML used for? 
-        hyper-text markup language
+        Hyper-Text Markup Language.
     3. What is an attribute and where do we put it? 
-        information inside the tag to make the website work
+        Information inside the tag to make the website work.
     4. What is the h1 tag used for? How many times should I use it on a page? 
         It is a heading element with the highest leve or most important. You should use it once.
     5. Name two tags that have required attributes
@@ -24,7 +24,7 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     10. What is a class? 
         Grouping elements together as a whole or category. 
     11. What elements can I add a class to? 
-        Similar to ID, it can be added to almost anything; div, section, span, h2, 
+        Similar to ID, it can be added to almost anything; div, section, span, h2.
     12. How many times can I use the same class on a page? 
         Multiple times.
     13. How do I get my link to open in a new tab?
@@ -47,7 +47,7 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
             <ul id="name">A. Moua</ul> //this id is assigned to this particular ul tag
             <ul id="age">00</ul>
     20. How do we select classes in CSS?
-        using #
+        We use the # in CSS to select classes.
     21. How do we select a p element with a single class of “human””?
         human p {
             ...
